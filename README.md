@@ -1,8 +1,16 @@
 # lonelywriter
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes` and your sass in `_sass`. To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
+lonelywriter is a simple completely minimal theme without all the fancy frills, designed to let you just concentrate on the writing. It comes in two color themes: light and dark. 
 
-TODO: Delete this and the text above, and describe your gem
+## More info and live preview
+[Click here](https://theconfused.me/lonelywriter) to see the theme in action. 
+
+## Features
+- Responsive
+- Compatible with Github Pages
+- Two color themes available: light and dark
+- no JS
+- 404 page included
 
 ## Installation
 
@@ -26,13 +34,10 @@ Or install it yourself as:
 
     $ gem install lonelywriter
 
-## Usage
-
-TODO: Write usage instructions here. Describe your available layouts, includes, and/or sass.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/hello. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/lingxz/lonelywriter. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 

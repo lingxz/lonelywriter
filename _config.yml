@@ -17,4 +17,4 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-color-theme: light
+color-theme: light # light or dark, default is light
