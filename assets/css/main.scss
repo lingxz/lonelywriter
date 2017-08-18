@@ -1,4 +1,6 @@
 ---
 ---
+@import "light";
+@import "{{ site.color-theme | default: 'light' }}";
 @import "base";
 @import "syntax";
