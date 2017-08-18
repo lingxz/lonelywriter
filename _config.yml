@@ -4,6 +4,7 @@ permalink: /blog/:title/
 tagline: a writing blog
 url: "https://theconfused.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/lonelywriter" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+favicon: "/assets/img/feather.png" # path of the favicon
 
 # Conversion
 markdown: kramdown
