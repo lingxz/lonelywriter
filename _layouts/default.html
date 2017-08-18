@@ -17,6 +17,12 @@
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | absolute_url }}">
     <meta http-equiv="cleartype" content="on">
+
+    {% if page.title %}
+      {% assign page_title = page.title | append: " " | append: "-" | append: " " | append: site.title %}
+    {% endif %}
+    <title>{{ page_title | default: site.title }}</title>
+
   </head>
 
   <body>
