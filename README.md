@@ -3,7 +3,9 @@
 lonelywriter is a simple completely minimal theme without all the fancy frills, designed to let you just concentrate on the writing. It comes in two color themes: light and dark. 
 
 ## More info and live preview
-[Click here](https://theconfused.me/lonelywriter) to see the theme in action. 
+[Click here](https://theconfused.me/lonelywriter) to see the theme with the light color scheme in action. 
+
+[Click here](https://theconfused.me/lonelywriter/dark) to see the theme with the dark color scheme in action.
 
 ## Features
 - Responsive
