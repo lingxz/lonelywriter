@@ -1,0 +1,82 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 16px;
+	font-family: "Open Sans", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft YaHei Light", sans-serif;
+}
+
+a {
+  color: inherit;
+  border-bottom: 1px solid #ddd;
+  text-decoration: none;
+  -webkit-transition: border-bottom .2s ease-in-out;
+  transition: border-bottom .2s ease-in-out;
+  &:hover {
+    text-decoration: none;
+    border-bottom-color: #000;
+    color: inherit;
+  }
+}
+
+hr {
+  // margin: 1em auto;
+  margin: 1.5em 0;
+  height: 1px;
+  background-color: #ccc;
+  width: 50%;
+  border: none;
+}
+
+#main {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 0 16px;
+  margin-bottom: 3em;
+}
+
+.header {
+	margin-top: 2em;
+}
+
+.title {
+	font-size: 1.5em;
+	font-weight: bold;
+  a {
+    border-bottom: none;
+  }
+}
+
+.light-title {
+  color: #ccc !important;
+  a {
+    color: #ccc;
+    // transition: color .2s ease-in-out;
+    &:hover {
+      color: inherit;
+      color: rgba(0,0,0,.8);
+    }
+  }
+}
+
+.posts {
+	padding: 1em 0;
+}
+
+.post-entry {
+	margin-right: 0.75em;
+	// font-size: 1.2em;
+	a {
+		color: inherit;
+	}
+	.post-entry-date {
+		float: right;
+		margin-left: 1em;
+		color: #ccc;
+	}
+}
+
+.post {
+  margin-top: 1.2em;
+}

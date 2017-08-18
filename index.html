@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="header">
+<div class="title"><a href="{{ '/' | absolute_url }}">{{ site.title }} | {{ site.tagline }}</a></div>
+{{ site.description }}
+</div>
+
+<hr>
+
+<div class="posts">
+{% for post in site.posts %}
+	<div class="post-entry">
+		<span class="post-entry-date">{{ post.date | date: "%B %d, %Y" }}</span>
+		<a href="{{ post.url | absolute_url }}" rel="permalink">{{ post.title }}</a>
+	</div>
+{% endfor %}
+</div>

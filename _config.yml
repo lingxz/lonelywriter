@@ -1,0 +1,16 @@
+title: lonelywriter
+description: Just concentrate on writing. This is a theme without any extra frills and fancy things. Get the theme <a href="https://github.com/lingxz/jekyll-lonelywriter">here</a>.
+permalink: /blog/:title/
+tagline: a writing blog
+
+# Conversion
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
