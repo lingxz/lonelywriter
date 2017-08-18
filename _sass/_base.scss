@@ -2,9 +2,10 @@
 	box-sizing: border-box;
 }
 
-html {
-	font-size: 16px;
-	font-family: "Open Sans", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft YaHei Light", sans-serif;
+
+body {
+  font-size: 13.34px;
+  // font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
 a {
@@ -34,6 +35,11 @@ hr {
 	margin: 0 auto;
 	padding: 0 16px;
   margin-bottom: 3em;
+  font-size: 110%;
+}
+
+pre, code {
+  font-size: inherit;
 }
 
 .header {
@@ -66,7 +72,7 @@ hr {
 
 .post-entry {
 	margin-right: 0.75em;
-	// font-size: 1.2em;
+  margin-bottom: 0.3em;
 	a {
 		color: inherit;
 	}

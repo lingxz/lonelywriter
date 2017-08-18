@@ -1,22 +1,13 @@
 ---
-title: "Welcome to Jekyll!"
+title: Post with syntax highlighting
 layout: post
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Succulents iceland hella knausgaard try-hard snackwave heirloom twee green juice shaman brunch chartreuse readymade. Wolf ethical vegan dreamcatcher kogi raclette edison bulb try-hard. Salvia sriracha shaman, artisan vexillologist flannel coloring book pinterest dreamcatcher put a bird on it roof party af YOLO ramps bespoke. Air plant williamsburg keffiyeh, meggings church-key woke palo santo. Whatever farm-to-table cliche locavore waistcoat. Butcher fanny pack subway tile you probably haven't heard of them cloud bread selfies taiyaki williamsburg, umami neutra biodiesel shaman retro. 
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+```python
+def do_something():
+	print("hello world!")
 ```
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+Church-key chillwave la croix chambray seitan cliche knausgaard ethical adaptogen yuccie scenester tacos. Lo-fi quinoa glossier coloring book. Synth church-key art party migas lomo pickled. Blue bottle sriracha fanny pack squid, shoreditch retro typewriter echo park shaman YOLO pour-over yuccie listicle. Master cleanse leggings cray, knausgaard organic cornhole normcore glossier readymade green juice pok pok microdosing. Coloring book selvage poke DIY jean shorts artisan knausgaard forage tumblr microdosing. Succulents cray lumbersexual hot chicken pabst tofu four loko cold-pressed pickled synth health goth venmo raw denim fixie. Kitsch pour-over chia bushwick intelligentsia. Narwhal swag VHS street art.
